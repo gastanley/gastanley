@@ -8,7 +8,11 @@ Je conçois des solutions performantes allant des architectures microservices au
 # 🛠 Compétences Techniques
 
 ### 🌐 Langages de Programmation
-*Maîtrise de langages variés pour répondre à différents paradigmes : la performance avec **Rust**, la polyvalence avec **Python** et la robustesse du typage avec **TypeScript**.*
+* **Performance & Sécurité :** Maîtrise de **Rust** pour des systèmes robustes.
+* **Polyvalence & IA :** Expertise **Python** pour le scripting et le Deep Learning.
+* **Web Typé :** Développement rigoureux avec **TypeScript** et **C#**.
+* **Fondamentaux :** Solides bases en **PHP** et **JavaScript**.
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -19,7 +23,11 @@ Je conçois des solutions performantes allant des architectures microservices au
 </p>
 
 ### 🏗 Backend & Architecture
-*Conception de systèmes scalables et sécurisés. Spécialisé dans les architectures **microservices**, les API REST performantes et la gestion de données complexe avec des ORM modernes comme **Prisma**.*
+* **Architectures Modernes :** Mise en œuvre de **Microservices** et d'**API REST** scalables.
+* **Frameworks Enterprise :** Développement avec **NestJS**, **Django** et **FastAPI**.
+* **Gestion de Données :** Maîtrise des ORM comme **Prisma** pour des requêtes optimisées.
+* **Efficacité :** Focus sur la sécurité des données et la logique métier complexe.
+
 <p align="left">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -29,7 +37,11 @@ Je conçois des solutions performantes allant des architectures microservices au
 </p>
 
 ### 🎨 Frontend & Mobile
-*Développement d'interfaces utilisateur (UI) intuitives et réactives. Expert en création d'applications mobiles cross-platform avec **Flutter** et d'applications web modernes avec **Angular** et **React**.*
+* **Frameworks Web :** Création de Single Page Applications (SPA) avec **Angular** et **React**.
+* **Mobile Cross-Platform :** Développement d'apps natives avec **Flutter**.
+* **Expérience Utilisateur :** Priorité à la réactivité des interfaces et à l'ergonomie (UX).
+* **Outillage Moderne :** Utilisation de **Vite** et de templates avancés comme **Fuse**.
+
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -37,7 +49,11 @@ Je conçois des solutions performantes allant des architectures microservices au
 </p>
 
 ### 🧠 Intelligence Artificielle & DevTools
-*Intégration de l'IA au cœur du software : Computer Vision (OMR), traitement du langage et automatisation via des pipelines CI/CD et la conteneurisation **Docker**.*
+* **Deep Learning :** Entraînement de modèles avec **PyTorch** (Computer Vision / OMR).
+* **Automatisation :** Conteneurisation avec **Docker** pour des déploiements isolés.
+* **Versioning :** Gestion rigoureuse des sources avec **Git**.
+* **Intégration LLM :** Manipulation de modèles de langage pour des agents intelligents.
+
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
