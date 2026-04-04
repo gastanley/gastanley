@@ -10,8 +10,8 @@ Je conçois des solutions performantes allant des architectures microservices au
 ### 🌐 Langages de Programmation
 * **Performance & Sécurité :** Maîtrise de **Rust** pour des systèmes robustes.
 * **Polyvalence & IA :** Expertise **Python** pour le scripting et le Deep Learning.
-* **Web Typé :** Développement rigoureux avec **TypeScript** et **C#**.
-* **Fondamentaux :** Solides bases en **PHP** et **JavaScript**.
+* **Web Typé :** Développement rigoureux avec **TypeScript**.
+* **Fondamentaux :** Solides bases en **JavaScript**.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
