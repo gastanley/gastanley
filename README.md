@@ -58,8 +58,7 @@ Devenir un expert incontournable en **Software Engineering et Intelligence Artif
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gastanley&show_icons=true&theme=radical&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastanley&layout=compact&theme=radical&langs_count=8" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gastanley&theme=radical" />
 </p>
 
 ---
