@@ -5,7 +5,7 @@ Je conçois des solutions performantes allant des architectures microservices au
 
 ---
 
-## 🛠 Compétences Techniques
+# 🛠 Compétences Techniques
 
 ### 🌐 Langages de Programmation
 *Maîtrise de langages variés pour répondre à différents paradigmes : la performance avec **Rust**, la polyvalence avec **Python** et la robustesse du typage avec **TypeScript**.*
