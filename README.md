@@ -44,8 +44,8 @@ Je conçois des solutions performantes allant des architectures microservices au
 
 ### 📫 Me contacter
 * 📍 **Localisation :** Antananarivo, Madagascar 🇲🇬
-* 💼 **LinkedIn :** [votre-nom-ici](https://linkedin.com/in/votre-lien)
-* 📧 **Email :** [votre-email@exemple.com]
+* 💼 **LinkedIn :** [Stanley Gaston](https://linkedin.com/in/stanley-gaston-755b21250/)
+* 📧 **Email :** [gastonstanley@proton.me]
 
 ---
 <p align="center">
