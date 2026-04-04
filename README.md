@@ -8,6 +8,7 @@ Je conçois des solutions performantes allant des architectures microservices au
 ### 🛠 Compétences Techniques
 
 #### 🌐 Langages de Programmation
+*Maîtrise de langages variés pour répondre à différents paradigmes : la performance avec **Rust**, la polyvalence avec **Python** et la robustesse du typage avec **TypeScript**.*
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -18,6 +19,7 @@ Je conçois des solutions performantes allant des architectures microservices au
 </p>
 
 #### 🏗 Backend & Architecture
+*Conception de systèmes scalables et sécurisés. Spécialisé dans les architectures **microservices**, les API REST performantes et la gestion de données complexe avec des ORM modernes comme **Prisma**.*
 <p align="left">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -27,6 +29,7 @@ Je conçois des solutions performantes allant des architectures microservices au
 </p>
 
 #### 🎨 Frontend & Mobile
+*Développement d'interfaces utilisateur (UI) intuitives et réactives. Expert en création d'applications mobiles cross-platform avec **Flutter** et d'applications web modernes avec **Angular** et **React**.*
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -34,10 +37,29 @@ Je conçois des solutions performantes allant des architectures microservices au
 </p>
 
 #### 🧠 Intelligence Artificielle & DevTools
+*Intégration de l'IA au cœur du software : Computer Vision (OMR), traitement du langage et automatisation via des pipelines CI/CD et la conteneurisation **Docker**.*
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 💡 Ce que j'apporte
+* **Polyvalence Fullstack :** Capacité à gérer un projet de A à Z, de la modélisation de base de données à l'expérience utilisateur finale.
+* **Expertise IA Native :** Je ne me contente pas de coder, j'intègre des modèles intelligents pour rendre les applications plus autonomes et performantes.
+* **Rigueur de l'Ingénieur :** Une approche structurée héritée de ma formation IGGLIA, privilégiant le code propre (*Clean Code*) et maintenable.
+
+### 🎯 Mon Objectif
+Devenir un expert incontournable en **Software Engineering et Intelligence Artificielle**, en repoussant les limites de la performance (notamment avec **Rust**) pour bâtir des outils technologiques qui répondent aux défis de demain.
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gastanley&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastanley&layout=compact&theme=radical&langs_count=8" />
 </p>
 
 ---
